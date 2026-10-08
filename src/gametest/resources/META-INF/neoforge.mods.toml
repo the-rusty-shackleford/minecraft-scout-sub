@@ -1,0 +1,17 @@
+# The gametests and the photo booth, as a mod of their own; never shipped.
+modLoader="javafml"
+loaderVersion="[1,)"
+license="AGPL-3.0-or-later"
+
+[[mods]]
+modId="scout_sub_gametest"
+version="1.0.0"
+displayName="Scout gametests"
+description='''The Scout's gametests and its photo booth.'''
+
+[[dependencies.scout_sub_gametest]]
+    modId="scout_sub"
+    type="required"
+    versionRange="[1.0,)"
+    ordering="AFTER"
+    side="BOTH"

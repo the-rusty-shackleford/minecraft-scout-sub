@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GGG",
+    "CBC",
+    " C "
+  ],
+  "key": {
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "B": {
+      "item": "minecraft:barrel"
+    },
+    "C": {
+      "tag": "c:storage_blocks/copper"
+    }
+  },
+  "result": {
+    "id": "vanillawheels:chassis",
+    "count": 1,
+    "components": {
+      "vanillawheels:vehicle": "scout_sub:scout"
+    }
+  }
+}

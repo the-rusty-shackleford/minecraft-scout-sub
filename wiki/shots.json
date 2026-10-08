@@ -1,0 +1,10 @@
+{
+  "shots": [
+    {"from": "run/booth/screenshots/scout-floating.png", "to": "img/scout.webp", "crop": [320, 180, 960, 540]},
+    {"from": "run/booth/screenshots/scout-at-depth.png", "to": "img/at-depth.webp"},
+    {"from": "run/booth/screenshots/scout-floating-tail.png", "to": "img/tail.webp", "crop": [320, 160, 960, 520]},
+    {"from": "run/booth/screenshots/scout-pilot-view.png", "to": "img/pilot-view.webp"},
+    {"from": "run/booth/screenshots/scout-spotlight-on.png", "to": "img/spotlight.webp"},
+    {"from": "run/booth/screenshots/scout-locker.png", "to": "img/locker.webp", "crop": [375, 162, 903, 553], "screen": true}
+  ]
+}
