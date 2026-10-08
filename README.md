@@ -9,7 +9,7 @@ profiles, a Blockbench mesh and a sound, and the protocols do the rest, so divin
 torpedoes are documented in Submersibles' README and the vehicle's keys, fuel, paint and repairs in
 Vanilla Wheels'.
 
-**1.0.0** is built and verified, not released.
+**1.0.0** is released (pack 1.78.0).
 
 ## What it is
 
