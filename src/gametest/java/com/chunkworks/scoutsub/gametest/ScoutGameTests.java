@@ -200,7 +200,7 @@ public final class ScoutGameTests {
         helper.assertValueEqual(sp.weapons().size(), 1, "one tube");
         helper.assertValueEqual(sp.propellers().size(), 1, "one screw");
         helper.assertTrue(sp.hatch().isPresent(), "a way out over the dome");
-        helper.assertValueEqual(sp.properties().durability(), 1.5, "fragile: two thirds of the wear");
+        helper.assertValueEqual(p.durability(), 1.5, "fragile: two thirds of the wear (its Vanilla Wheels profile's since Submersibles 1.1.0)");
         Submarine s = sub(helper, 24.5, 2, 12.5, 0.0f);
         helper.assertValueEqual(s.getName().getString(), "Scout", "named");
         helper.assertTrue(Math.abs(s.hullform().topSpeed() - TOP_SPEED) < 1e-9, "its top speed by its numbers: " + s.hullform().topSpeed());

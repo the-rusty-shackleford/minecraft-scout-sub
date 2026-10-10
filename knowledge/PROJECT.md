@@ -14,6 +14,12 @@ only, nesting Submersibles (which nests Vanilla Wheels). The plan is
 `~/.claude/plans/peppy-scribbling-lollipop.md`, step 3; D-0001 is the model, the seat, the locker,
 the numbers and the sound.
 
+## 1.0.1 — built and gated 2026-10-10, unreleased (on Submersibles 1.1.0)
+
+Its durability, 1.5, moved from its submarine profile's `properties` into its Vanilla Wheels profile
+(Submersibles 1.1.0; Vanilla Wheels 1.14.0's D-0034), unchanged; it nests Submersibles 1.1.0. Gate:
+the release gate (2026-10-10, `clean build --no-build-cache`) green with 8 gametests and the booth's 16 checks.
+
 ## Status: 1.0.0 released 2026-10-08 in pack 1.78.0
 
 - Released on Rusty's go with Submersibles 1.0.0: public repo created then, tag `v1.0.0` at

@@ -45,7 +45,7 @@ stats:
 | turn | 3.5 degrees a tick |
 | spool | 20 ticks at acceleration 1.0: a second |
 | fuel | 24 000 ticks, burnt at 0.8 a tick while driven: 25 minutes |
-| durability | 1.5: two thirds of the wear |
+| durability | 1.5: two thirds of the wear (its Vanilla Wheels profile's `durability` since Submersibles 1.1.0) |
 | crashes | Submersibles' defaults: safe below 0.15 a tick, a wreck at 0.8 |
 | currents | a swimmer's whole push; stabilizer 0.05; tilts up to 14 degrees |
 | repair | copper ingots, 16 for a wreck |

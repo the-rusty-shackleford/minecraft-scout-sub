@@ -6,7 +6,6 @@
     "yawSpeed": 3.5,
     "acceleration": 1.0,
     "fuel": 0.8,
-    "durability": 1.5,
     "stabilizer": 0.05,
     "wind": 1.0
   },
