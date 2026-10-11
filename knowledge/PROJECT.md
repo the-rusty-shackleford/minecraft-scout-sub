@@ -14,7 +14,10 @@ only, nesting Submersibles (which nests Vanilla Wheels). The plan is
 `~/.claude/plans/peppy-scribbling-lollipop.md`, step 3; D-0001 is the model, the seat, the locker,
 the numbers and the sound.
 
-## 1.0.1 — built and gated 2026-10-10, unreleased (on Submersibles 1.1.0)
+## 1.0.1 — released 2026-10-11 in pack 1.82.0 (on Submersibles 1.1.0)
+
+Released on Rusty's go ("Release the 2026-10-10 batch and Survivalist Armor 0.2.0. This is my go."), tag `v1.0.1` at `a0d051a`, the release gate (2026-10-11, `clean build --no-build-cache`) green again on that commit; sha1 `0465628e` on GitHub and on the server (the server repo's `knowledge/releases/pack-1.82.0.md`). Not yet seen in play on the box.
+
 
 Its durability, 1.5, moved from its submarine profile's `properties` into its Vanilla Wheels profile
 (Submersibles 1.1.0; Vanilla Wheels 1.14.0's D-0034), unchanged; it nests Submersibles 1.1.0. Gate:
